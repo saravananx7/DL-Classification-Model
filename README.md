@@ -8,7 +8,8 @@ The Iris dataset consists of 150 samples from three species of iris flowers (Iri
 
 ## Neural Network Model
 Include the neural network model diagram.
-<img width="842" height="858" alt="image" src="https://github.com/user-attachments/assets/33186a33-5ab0-4ea0-bb11-35dea0fb6b05" />
+<img width="915" height="832" alt="image" src="https://github.com/user-attachments/assets/e63ceb57-4580-47de-847e-179d303aa9f5" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
